@@ -2,9 +2,9 @@
 Study app for the 11th Omnistack week from Rocketseat
 
 # Stack
-*Node.Js - Backend
-*React.Js - Frontend Web
-*React Native - Mobile app
+1. Node.Js - Backend
+1. React.Js - Frontend Web
+1. React Native - Mobile app
 
 # Images
 
