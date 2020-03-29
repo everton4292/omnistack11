@@ -6,7 +6,7 @@ The base idea is to have a platform in which instituions or people can post a ca
 
 <p align="center"><br>
   <a href="https://github.com/everton4292/Omnistack11#be-the-hero">:rescue_worker_helmet:Be The Hero</a>  | 
-  <a href="https://github.com/everton4292/Omnistack11#telescope-stack---the-project-was-made-using-these-technologies">:telescope:Stack</a>  | 
+  <a href="https://github.com/everton4292/Omnistack11#telescope-stack">:telescope:Stack</a>  | 
   <a href="https://github.com/everton4292/Omnistack11#film_strip-images">:film_strip:Images</a>  | 
   <a href="https://github.com/everton4292/Omnistack11#handshake-how-you-can-help">:handshake:How you can help</a>
   <br><br>
