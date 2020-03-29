@@ -1,6 +1,11 @@
 # Be The Hero
 
-:telescope:[Stack](http://github.com/everton4292/Omnistack11#-Stack)   |   :film_strip:[Images](http://github.com/everton4292/Omnistack11#-Images) |  :handshake:[How you can help](http://github.com/everton4292/Omnistack11#-how-you-can-help)
+<p align="center"><br>
+  <a href="http://github.com/everton4292/Omnistack11#-Stack">:telescope:Stack</a> |
+  <a href="http://github.com/everton4292/Omnistack11#-Images">:film_strip:Images</a> |
+  <a href="http://github.com/everton4292/Omnistack11#-how-you-can-help">:handshake:How you can help</a>
+  <br><br>
+ </p>
  
 
 ## Study app for the 11th Omnistack week from Rocketseat
